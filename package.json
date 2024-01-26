@@ -1,7 +1,7 @@
 {
     "name": "wucdbm-vite-acme",
     "private": false,
-    "description": "ACME",
+    "description": "An ACME template for building Vite-built libraries with CLI tools",
     "version": "1.0.0",
     "type": "module",
     "main": "./dist/index.js",
